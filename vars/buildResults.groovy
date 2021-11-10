@@ -15,6 +15,4 @@ post {
         Check console output at ${BUILD_URL}""",
         to: 'dylan.mehmedovic@concanon.com'
       )
-    }   
-  }
 }
