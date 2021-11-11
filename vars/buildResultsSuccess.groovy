@@ -6,5 +6,3 @@ def call() {
   to: 'dylan.mehmedovic@concanon.com'
   )
 }
-       
-    
