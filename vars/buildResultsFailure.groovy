@@ -5,3 +5,4 @@ def call() {
         Check console output at ${BUILD_URL}""",
         to: 'bilal.hussain@concanon.com'
         )
+}
